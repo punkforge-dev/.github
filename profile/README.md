@@ -10,14 +10,14 @@ We're not chasing unicorn status or growth metrics. We're chasing *good* — sof
 
 ## Setlist
 
-- 📼 **Made, not manufactured** — built because it should exist.
-- 🎸 **DIY or die** — small footprint, big intent.
-- 🚫 **No dark patterns** — we're not selling your attention.
-- 🔥 **Ship it, fix it, ship it again** - iteration over perfection paralysis.
+- 📼 **Made, not manufactured** · built because it should exist.
+- 🎸 **DIY or die** · small footprint, big intent.
+- 🚫 **No dark patterns** · we're not selling your attention.
+- 🔥 **Ship it, fix it, ship it again** · iteration over perfection paralysis.
 
 ## Forging
 
-- Marvelous Companion - An unofficial companion app for the United Game System (Marvel and DC United)
+- Marvelous Companion · [Community Discord](https://discord.gg/6PDXRXaq2K) · An unofficial companion app for the United Game System (Marvel and DC United)
 
 ## Equipment
 
