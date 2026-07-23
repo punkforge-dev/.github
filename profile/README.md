@@ -8,18 +8,18 @@ No committees. No design-by-focus-group. Just an idea, a keyboard, and the stubb
 
 We're not chasing unicorn status or growth metrics. We're chasing *good* — software built with actual craft, for people who deserve better than duct-taped features and dark patterns.
 
-## How we play
+## Setlist
 
 - 📼 **Made, not manufactured** — built because it should exist.
 - 🎸 **DIY or die** — small footprint, big intent.
 - 🚫 **No dark patterns** — we're not selling your attention.
 - 🔥 **Ship it, fix it, ship it again** - iteration over perfection paralysis.
 
-## Currently forging
+## Forging
 
 - Marvelous Companion - An unofficial companion app for the United Game System (Marvel and DC United)
 
-## Lineup
+## Equipment
 
 Compose/Kotlin Multiplatform · Koin · Ktor
 
